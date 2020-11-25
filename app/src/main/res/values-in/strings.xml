@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission 5</string>
+    <string name="movie">Film</string>
+    <string name="tv">TV</string>
+    <string name="title_activity_main">Katalog Film</string>
+    <string name="desc_poster_movie">Poster</string>
+    <string name="change_language_settings">Ubah pengaturan bahasa</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="msg_failed_Favorite">Gagal membuat favorit</string>
+    <string name="failed_delete_favorite">Gagal menghapus favorite</string>
+    <string name="msg_success_Favorite">Ditambah di favorite</string>
+    <string name="success_delete_favorite">Dihapus dari favorite</string>
+    <string name="action_search">Cari</string>
+    <string name="search_maches">Pencarian cocok</string>
+    <string name="appwidget_text">Favorit Film</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="daily_reminder_title">Pengingat harian</string>
+    <string name="daily_summary_off">Tidak ada pemberitahuan</string>
+    <string name="language_header">Bahasa</string>
+    <string name="language_title">Ubah bahasa</string>
+    <string name="notification_header">Notifikasi</string>
+    <string name="release_reminder_title">Film rilis baru</string>
+    <string name="release_summary_off">Tidak ada pemberitahuan film rilis</string>
+    <string name="release_summary_on">Notifikasi setiap jam 8 pagi</string>
+    <string name="daily_summary_on">Notifikasi setiap jam 7 pagi</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="today">Hari ini</string>
+    <string name="release">telah rilis !</string>
+    <string name="daily_reminder_text">Mari lihat referensi film dan acara TV!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="release_set">Pengingat rilis telah diatur !</string>
+    <string name="daily_set">Pengingat harian telah diatur !</string>
+
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+
+</resources>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">submission5</string>
+    <string name="movie">Movie</string>
+    <string name="tv">TV</string>
+    <string name="title_activity_main">Movie Catalogue</string>
+    <string name="desc_poster_movie">Poster</string>
+    <string name="change_language_settings">Change language setting</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="msg_failed_Favorite">Failed to make favorite</string>
+    <string name="failed_delete_favorite">Failed to delete favorite</string>
+    <string name="msg_success_Favorite">Added to favorite</string>
+    <string name="success_delete_favorite">Deleted from favorite</string>
+    <string name="action_search">Search</string>
+    <string name="search_maches">Search matches</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No data</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="language_header">Language</string>
+    <string name="notification_header">Notification</string>
+
+    <!-- Language Preferences -->
+    <string name="language_title">Change language</string>
+
+    <!-- Sync Preferences -->
+    <string name="daily_reminder_title">Daily Reminder</string>
+    <string name="release_reminder_title">New Release Movies</string>
+    <string name="release_summary_on">Notification every 8 AM
+    </string>
+    <string name="release_summary_off">No notification</string>
+    <string name="daily_summary_on">Notification every 7 AM
+    </string>
+    <string name="daily_summary_off">No notification</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="release_set">Release reminder has been set !</string>
+    <string name="today">Today</string>
+    <string name="release">was release !</string>
+    <string name="daily_reminder_text">Let\'s check out the reference of movies and TV show !</string>
+    <string name="daily_set">Daily reminder has been set !</string>
+
+    <!-- Preference Titles -->
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
